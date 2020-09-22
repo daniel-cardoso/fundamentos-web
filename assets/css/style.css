@@ -1,0 +1,40 @@
+/* Estilos da página index.html */
+
+.center {
+    text-align: center;
+}
+
+.container {
+    display: flexbox;
+
+}
+
+.rodape {
+    display: flex;
+    align-items: center;
+    padding: 60px;
+}
+
+#menu li {
+    background: blueviolet;
+    text-align: center;
+    display: inline-block;
+    padding: 35px;
+    border-radius: 50px;
+}
+#menu li:hover{
+    background: black
+}
+#menu li a {
+    text-decoration: none;
+    background: blueviolet;
+    text-align: center;
+    display: inline-block;
+    padding: 35px;
+    border-radius: 50px;
+}
+
+#menu li a:hover{
+    background: darkblue;
+}
+/* Estilos da página contato.html */
