@@ -36,5 +36,7 @@
 
 #menu li a:hover{
     background: darkblue;
+    text-transform: uppercase;
+    color: aqua;
 }
 /* Estilos da página contato.html */
