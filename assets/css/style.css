@@ -5,9 +5,15 @@
 }
 
 .container {
-    display: flexbox;
+   display: flex;
+   justify-content: center;
+   align-items: center;
 
 }
+
+.justify{
+    text-align: justify;
+ }
 
 .rodape {
     display: flex;
@@ -40,3 +46,15 @@
     color: aqua;
 }
 /* Estilos da página contato.html */
+
+.p-30 {
+    padding: 30px;
+ }
+
+ .ml-50 {
+    margin-left: 50px;
+ }
+
+ .tm-forms {
+     width: 1000px;
+ }
